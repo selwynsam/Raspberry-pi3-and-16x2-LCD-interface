@@ -1,1 +1,1 @@
-# Raspberry-pi3-and-16x2-LCD-interface
+# Raspberry-pi3-with-16x2-LCD-interface
